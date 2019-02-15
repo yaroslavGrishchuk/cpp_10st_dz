@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/mi/CLionProjects/labsASD/top_sort/main.cpp
+iostream
+-
+vector
+-
+cassert
+-
+algorithm
+-
+cmath
+-
+
